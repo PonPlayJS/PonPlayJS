@@ -12,7 +12,6 @@ Actualmente tengo **17 años** y el próximo año comenzaré la carrera de **Ing
 - 🔭 Estoy trabajando en mi propia versión de **[Eureka](https://eureka-research.github.io/)** – el fascinante agente de NVIDIA que entrena robots mediante IA. ¡Quiero entenderlo y mejorarlo!
 - 🌱 Aprendiendo por mi cuenta **Python** (mi lenguaje principal), y adentrándome en **Machine Learning**, **Robótica** e **Inteligencia Artificial**.
 - 🤖 Me apasiona construir sistemas que combinen software y hardware, y explorar cómo la IA puede hacerlos más inteligentes.
-- 📫 ¿Quieres conversar? Puedes contactarme en **[tu-email@ejemplo.com]** o en **[tu-usuario]** en redes sociales.
 
 ---
 
