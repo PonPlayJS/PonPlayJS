@@ -35,7 +35,7 @@ Actualmente tengo **17 años** y el próximo año comenzaré la carrera de **Ing
 
 ## 🌟 Dato curioso
 
-*Ya se que un flota no es un número entero*
+*Ya se que un float no es un número entero*
 
 ---
 
