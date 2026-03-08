@@ -29,14 +29,7 @@ Actualmente tengo **17 años** y el próximo año comenzaré la carrera de **Ing
 - **Eureka (versión personal)** – Recreación del paper de NVIDIA para entrenar robots con tareas complejas.  
   *En progreso...*
 - **Otros proyectos** – Pequeños scripts de ML, experimentos con sensores y automatizaciones.  
-  *(Pronto más repositorios públicos)*
-
----
-
-## 📈 Estadísticas de GitHub
-
-![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=PonPlayJS&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=PonPlayJS&layout=compact&theme=radical)
+  *(Pronto más repositorios públicos*)
 
 ---
 
