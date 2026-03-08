@@ -9,9 +9,8 @@ Actualmente tengo **17 años** y el próximo año comenzaré la carrera de **Ing
 
 ## 🚀 Sobre mí
 
-- 🔭 Estoy trabajando en mi propia versión de **[Eureka](https://eureka-research.github.io/)** – el fascinante agente de NVIDIA que entrena robots mediante IA. ¡Quiero entenderlo y mejorarlo!
-- 🌱 Aprendiendo por mi cuenta **Python** (mi lenguaje principal), y adentrándome en **Machine Learning**, **Robótica** e **Inteligencia Artificial**.
-- 🤖 Me apasiona construir sistemas que combinen software y hardware, y explorar cómo la IA puede hacerlos más inteligentes.
+- 🔭 Estoy trabajando en mi propia versión de **[Eureka](https://eureka-research.github.io/)**
+- 🌱 Aprendiendo por mi cuenta **Python** (mi lenguaje principal), y adentrándome en **Machine Learning**, **Robótica** e **Inteligencia Artificial**. 
 
 ---
 
@@ -25,7 +24,7 @@ Actualmente tengo **17 años** y el próximo año comenzaré la carrera de **Ing
 
 ## 📌 Proyectos destacados
 
-- **Eureka (versión personal)** – Recreación del paper de NVIDIA para entrenar robots con tareas complejas.  
+- **Eureka (versión personal)** – Recreación del paper de NVIDIA para entrenar robots con tareas complejas.(todavía no está publico)
   *En progreso...*
 - **Otros proyectos** – Pequeños scripts de ML, experimentos con sensores y automatizaciones.  
   *(Pronto más repositorios públicos*)
